@@ -8,11 +8,11 @@ This program creates unique license plates with three letters and three numbers 
 2. Django REST framework
 
 ## Execution
-Run Server: python manage.py runserver
-API Root page: localhost:8000
-Admin page: localhost:8000/admin/ 
-username: knourian
-password: kn4170kn
+* **Run Server:** `python manage.py runserver`
+* **API Root page:** localhost:8000
+* **Admin page:** localhost:8000/admin/ 
+* **Admin username:** knourian
+* **Admin password:** kn4170kn
 
 
 
